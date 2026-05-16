@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/AjayJ19/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AjayJ19/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/AjayJ19/Leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->

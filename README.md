@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/AjayJ19/Leetcode/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/AjayJ19/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AjayJ19/Leetcode/tree/master/0213-house-robber-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AjayJ19/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/AjayJ19/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AjayJ19/Leetcode/tree/master/0213-house-robber-ii) |
 ## Memoization
 |  |
 | ------- |

@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AjayJ19/Leetcode/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AjayJ19/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AjayJ19/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AjayJ19/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
